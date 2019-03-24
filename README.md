@@ -1,5 +1,5 @@
-# ZeroMe
+# MFCity
 
-Social network for ZeroNet
+P2P Social network for Freeland
 
 ![Screenshot](http://funkyimg.com/i/2BKNE.png)
